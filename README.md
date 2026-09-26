@@ -164,30 +164,30 @@ Worked on enterprise software and smart-meter data systems, focusing on backend 
 
 ## Selected Engineering Projects
 
-### 🎓 Examorix
+### 🎓 Examifo
 
-**AI-Powered Examination & Assessment Platform**
+**Online Exam & Assessment Platform for Educators**
 
-[![Live](https://img.shields.io/badge/Live-Examorix-000000?style=flat-square\&logo=vercel)](https://examorixfrontend.vercel.app)
+[![Live](https://img.shields.io/badge/Live-Examifo-000000?style=flat-square&logo=vercel)](https://examifo.com)
 
-A full-stack AI platform for automated examination, assessment, and academic integrity.
+A full-stack assessment platform for building, delivering, and evaluating exams, quizzes, and forms with automated grading and proctoring.
 
 **Architecture**
 
-`Next.js` → `ASP.NET Core` → `FastAPI AI Services` → `Azure / SQL / Blob Storage`
+Next.js → ASP.NET Core → FastAPI AI Services → Azure / SQL / Blob Storage
 
 **Engineering Highlights**
 
-* Designed a modular full-stack architecture separating frontend, backend, and AI services.
-* Built AI pipelines for **question generation, answer evaluation, OCR, plagiarism detection, and proctoring**.
-* Integrated computer vision using **OpenCV and MediaPipe**.
-* Implemented document processing for PDF, DOCX, PPTX, and scanned content.
-* Designed cloud storage workflows using **Azure Blob Storage**.
-* Integrated authentication, authorization, course management, examination workflows, and reporting.
-* Exploring **Judge0-based code execution** for programming questions.
+* Built a full assessment lifecycle: exam builder, question bank, delivery controls, live monitoring, and results/analytics.
+* Implemented **six question types** — single choice, multiple select, true/false, short answer, essay, and coding — each with its own evaluation path.
+* Built **automatic evaluation pipelines**: instant scoring for objective questions, test-case execution for coding questions, and AI-assisted grading for written responses.
+* Developed **configurable proctoring controls** — fullscreen enforcement, tab-switch monitoring with configurable thresholds, and clipboard restriction — with flag-or-auto-submit violation handling.
+* Designed a **reusable question bank** with subject/difficulty/tag categorization for reuse across assessments.
+* Built a **live response dashboard** tracking participant progress and submission status in real time.
+* Implemented **question-level analytics** (class averages, per-question performance) to surface which questions need revision.
+* Built **access control for delivery**: participant access codes, timed windows, and attempt limits.
 
-**Focus:** AI Engineering · Distributed Services · Backend Architecture · Computer Vision · LLM Applications
-
+**Focus:** Full-Stack Engineering · Automated Assessment · AI-Assisted Grading · Exam Proctoring · EdTech
 ---
 
 ### 🏫 UET Admission Portal
