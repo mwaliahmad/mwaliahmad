@@ -172,12 +172,6 @@ Worked on enterprise software and smart-meter data systems, focusing on backend 
 
 A full-stack assessment platform for building, delivering, and evaluating exams, quizzes, and forms with automated grading and proctoring.
 
-**Architecture**
-
-Next.js → ASP.NET Core → FastAPI AI Services → Azure / SQL / Blob Storage
-
-**Engineering Highlights**
-
 * Built a full assessment lifecycle: exam builder, question bank, delivery controls, live monitoring, and results/analytics.
 * Implemented **six question types** — single choice, multiple select, true/false, short answer, essay, and coding — each with its own evaluation path.
 * Built **automatic evaluation pipelines**: instant scoring for objective questions, test-case execution for coding questions, and AI-assisted grading for written responses.
@@ -188,6 +182,8 @@ Next.js → ASP.NET Core → FastAPI AI Services → Azure / SQL / Blob Storage
 * Built **access control for delivery**: participant access codes, timed windows, and attempt limits.
 
 **Focus:** Full-Stack Engineering · Automated Assessment · AI-Assisted Grading · Exam Proctoring · EdTech
+
+
 ---
 
 ### 🏫 UET Admission Portal
@@ -244,6 +240,8 @@ Implemented a neural network from first principles without ML frameworks.
 ---
 
 ### 🏫 ApnaClassroom
+
+[![Live](https://img.shields.io/badge/Live-ApnaClassroom-000000?style=flat-square)](https://apna-classroom-nine.vercel.app/)
 
 A full-stack learning management platform with AI-powered academic features.
 
