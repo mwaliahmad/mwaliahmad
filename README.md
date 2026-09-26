@@ -1,103 +1,390 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+
+# Muhammad Wali Ahmad
+
+### Software Engineer · AI Engineer · .NET / Full-Stack · System Design
+
+Building scalable software systems, AI-powered applications, and backend services with a focus on **clean architecture, distributed systems, and production engineering**.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadwaliahmad.vercel.app-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://muhammadwaliahmad.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-mwaliahmad-181717?style=for-the-badge\&logo=github)](https://github.com/mwaliahmad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/muhammadwaliahmad)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail)](mailto:muhammadwaliahmad@gmail.com)
+
 </div>
 
-###
+---
+
+## About
+
+I am a **Software Engineer with experience building backend services, full-stack applications, data-driven systems, and AI-powered products**.
+
+My core engineering experience is centered around **C#, .NET, ASP.NET Core, SQL, APIs, and modern web applications**, with hands-on experience designing and deploying systems across Azure and Vercel.
+
+I also work with **AI/ML and LLM-based applications**, including intelligent exam generation, automated evaluation, computer vision, plagiarism detection, and NLP systems.
+
+Currently, I am particularly interested in:
+
+* **System Design & Distributed Systems**
+* **Backend & API Engineering**
+* **AI Engineering & LLM Applications**
+* **Scalable Software Architecture**
+* **High-Performance & Concurrent Systems**
+* **Cloud & Production Engineering**
+
+I enjoy understanding how systems work internally and designing solutions that are **reliable, scalable, maintainable, and practical**.
+
+---
+
+## Engineering Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Software Engineering
+
+* C# / .NET / ASP.NET Core
+* REST APIs & Backend Systems
+* Entity Framework Core
+* SQL & Database Design
+* Next.js & Full-Stack Development
+* Authentication & Authorization
+* Clean Architecture
+* API Design
+* Testing & Debugging
+
+</td>
+<td width="50%" valign="top">
+
+### AI Engineering
+
+* LLM Applications
+* AI Agents
+* NLP & Transformers
+* Computer Vision
+* RAG & Embeddings
+* Automated Evaluation
+* AI-powered SaaS
+* Model Integration
+* ML Systems
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### System Design
+
+* Distributed Systems
+* High-throughput APIs
+* Event-driven Architecture
+* Message Queues
+* Caching
+* Database Scaling
+* Concurrency & I/O
+* Fault Tolerance
+* Observability
+
+</td>
+<td width="50%" valign="top">
+
+### Cloud & Infrastructure
+
+* Microsoft Azure
+* Docker
+* Git & GitHub
+* CI/CD
+* Vercel
+* Linux
+* Postman
+* Power BI
+* Cloud-based Application Architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+### Languages
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+### Backend & Frameworks
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+
+### AI & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+
+### Cloud & Tools
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+
+---
+
+## Professional Experience
+
+### Associate Software Engineer · Intelliwork
+
+**Feb 2025 – Oct 2025**
+
+Worked on enterprise software and smart-meter data systems, focusing on backend services, APIs, database integration, and device communication.
+
+* Developed and maintained **.NET-based backend services and Windows Services**.
+* Worked on a **Meter Data Collection (MDC) system** for smart-meter data synchronization.
+* Integrated multi-vendor meter communication with downstream **Meter Data Management systems**.
+* Implemented APIs for device operations, meter reads/writes, event history, and system monitoring.
+* Worked with **C#, .NET Framework, SQL, MySQL, REST APIs, and enterprise integrations**.
+* Investigated production issues across services, APIs, databases, and device communication layers.
+
+---
+
+## Selected Engineering Projects
+
+### 🎓 Examorix
+
+**AI-Powered Examination & Assessment Platform**
+
+[![Live](https://img.shields.io/badge/Live-Examorix-000000?style=flat-square\&logo=vercel)](https://examorixfrontend.vercel.app)
+
+A full-stack AI platform for automated examination, assessment, and academic integrity.
+
+**Architecture**
+
+`Next.js` → `ASP.NET Core` → `FastAPI AI Services` → `Azure / SQL / Blob Storage`
+
+**Engineering Highlights**
+
+* Designed a modular full-stack architecture separating frontend, backend, and AI services.
+* Built AI pipelines for **question generation, answer evaluation, OCR, plagiarism detection, and proctoring**.
+* Integrated computer vision using **OpenCV and MediaPipe**.
+* Implemented document processing for PDF, DOCX, PPTX, and scanned content.
+* Designed cloud storage workflows using **Azure Blob Storage**.
+* Integrated authentication, authorization, course management, examination workflows, and reporting.
+* Exploring **Judge0-based code execution** for programming questions.
+
+**Focus:** AI Engineering · Distributed Services · Backend Architecture · Computer Vision · LLM Applications
+
+---
+
+### 🏫 UET Admission Portal
+
+**Production Full-Stack Admissions Platform**
+
+[![Live](https://img.shields.io/badge/Live-Apply%20UET-0066CC?style=flat-square)](https://apply.uet.edu.pk/)
+
+A production admissions platform used to support large-scale university admissions workflows.
+
+* Built backend services using **ASP.NET Web API**.
+* Developed frontend workflows using **Razor Pages**.
+* Implemented authentication, application processing, and admission workflows.
+* Worked on automated merit-list generation and application processing.
+* Designed workflows capable of supporting **20,000+ applicants/users**.
+
+**Focus:** Backend Engineering · Database Systems · Production Applications · Scalability
+
+---
+
+### ✍️ AutoGrade
+
+**AI-Powered Automated Essay Evaluation**
+
+[![Live](https://img.shields.io/badge/Live-AutoGrade-000000?style=flat-square)](https://autograde-murex.vercel.app/)
+
+An NLP-based assessment system for automated essay evaluation.
+
+* Built an automated essay grading pipeline using **BERT-based models**.
+* Implemented rubric-based evaluation for structured assessment.
+* Developed REST APIs and a full-stack web interface.
+* Combined ML models with application-level evaluation workflows.
+
+**Focus:** NLP · Machine Learning · AI Engineering · Full-Stack Development
+
+---
+
+### 🧠 Neural Network From Scratch
+
+[![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square\&logo=github)](https://github.com/mwaliahmad/Neural-Network-for-both-csv-and-images-data-)
+
+Implemented a neural network from first principles without ML frameworks.
+
+* Custom forward propagation
+* Backpropagation
+* Activation functions
+* Loss functions
+* Gradient-based optimization
+* Hyperparameter tuning
+* Support for tabular and image data
+
+**Focus:** Machine Learning Fundamentals · Numerical Computing · Model Architecture
+
+---
+
+### 🏫 ApnaClassroom
+
+A full-stack learning management platform with AI-powered academic features.
+
+* Course and assignment management
+* Attendance and grading workflows
+* Authentication and authorization
+* AI-based plagiarism detection
+* Analytics dashboards
+* REST APIs and database integration
+
+**Focus:** Full-Stack Engineering · AI Integration · SaaS Architecture
+
+---
+
+## System Design & Architecture
+
+I am actively building deeper expertise in designing **scalable and distributed software systems**.
+
+Current areas of interest include:
+
+```text
+                    ┌─────────────────┐
+                    │    Clients      │
+                    └────────┬────────┘
+                             │
+                    ┌────────▼────────┐
+                    │   API Gateway   │
+                    └────────┬────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              │              │              │
+       ┌──────▼─────┐ ┌──────▼─────┐ ┌──────▼─────┐
+       │  Services  │ │ AI Services│ │ Background │
+       │    .NET    │ │  FastAPI   │ │   Workers  │
+       └──────┬─────┘ └──────┬─────┘ └──────┬─────┘
+              │              │              │
+              └──────────────┼──────────────┘
+                             │
+                   ┌─────────▼─────────┐
+                   │ Event / Message   │
+                   │      Layer        │
+                   └─────────┬─────────┘
+                             │
+                ┌────────────┼────────────┐
+                │            │            │
+          ┌─────▼────┐ ┌─────▼────┐ ┌────▼─────┐
+          │   SQL    │ │  Cache   │ │  Object  │
+          │ Database │ │  Layer   │ │ Storage  │
+          └──────────┘ └──────────┘ └──────────┘
+```
+
+### Topics I Explore
+
+* API Gateway & Service Architecture
+* Horizontal Scaling
+* Caching Strategies
+* Database Indexing & Optimization
+* Message Queues & Event-Driven Systems
+* Kafka & Asynchronous Processing
+* Distributed Transactions
+* Rate Limiting
+* Load Balancing
+* Fault Tolerance
+* Observability
+* Concurrent I/O
+* `epoll` and `io_uring`
+* High-throughput backend systems
+
+---
+
+## Engineering Interests
+
+```text
+Software Engineering
+        │
+        ├── Backend Engineering
+        │       ├── .NET
+        │       ├── APIs
+        │       └── Databases
+        │
+        ├── System Design
+        │       ├── Distributed Systems
+        │       ├── Scalability
+        │       └── Performance
+        │
+        └── AI Engineering
+                ├── LLM Applications
+                ├── AI Agents
+                ├── NLP
+                └── Computer Vision
+```
+
+My goal is to work at the intersection of **strong software engineering and practical AI**, building systems where AI capabilities are supported by reliable backend architecture.
+
+---
+
+## Recognition
+
+* **Gold Microsoft Learn Student Ambassador**
+* **Lead, Microsoft Learn Student Ambassadors, UET Lahore**
+* **UET Merit Scholarship**, awarded across five semesters
+* **98.1 percentile**, National IT Skill Competency Test 2026
+* **Dean's Honour Roll**, multiple semesters
+* **Microsoft technical workshops and community sessions**, 15+ sessions
+* Mentored **250+ students** through technical learning and community activities
+
+---
+
+## GitHub Activity
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mwaliahmad.mwaliahmad&"  />
+
+<img src="https://github-stats-extended.vercel.app/api?username=mwaliahmad&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mwaliahmad&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=mwaliahmad&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
+
+<br><br>
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="95%" alt="3D GitHub Contribution Graph"/>
+
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Muhammad Wali Ahmad from Lahore, Pakistan.<br><br>- 🔭 I’m studing BSCS at UET, Lahore<br>- 📚 I'm currently learning Google Cyber Security Professional Certificate<br>- ⚡ In my free time I solve codewars and hackerrank problems</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## Connect
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://muhammadwaliahmad.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/muhammadwaliahmad)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mwaliahmad)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:muhammadwaliahmad@gmail.com)
+
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mwaliahmad&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+### Building software systems today. Designing scalable and intelligent systems for tomorrow.
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mwaliahmad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mwaliahmad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Wali Ahmad">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31y3qbfxadoe7vnu5u5esi53wtim&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
