@@ -364,8 +364,6 @@ My goal is to work at the intersection of **strong software engineering and prac
 
 <br><br>
 
-<img src="./profile-3d-contrib/profile-night-green.svg" width="95%" alt="3D GitHub Contribution Graph"/>
-
 </div>
 
 ---
